@@ -19,8 +19,8 @@ public:
 	AAuraEnemy();
 
 	/**EnemyInterface */
-	virtual  void HighLightActor() override;
-	virtual  void UnHighLightActor() override;
+	virtual  void HighlightActor() override;
+	virtual  void UnHighlightActor() override;
 	/**EnemyInterface end */
 
 protected:
